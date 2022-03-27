@@ -1,2 +1,4 @@
 name: Mahesh
 address: Pune
+city : pune
+State : Maharashtra
