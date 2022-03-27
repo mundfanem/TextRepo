@@ -1,6 +1,5 @@
 name: Mahesh Mundfane
 education: BE
-city : pune
 address: Kale padal hadapsar Pune
 city : pune 
 State : Maharashtra
